@@ -25,3 +25,5 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define NO_ACTION_FUNCTION
 
 #define ENCODER_DIRECTION_FLIP
+#define TAPPING_TERM 175
+#define UNICODE_SELECTED_MODES UC_WINC
