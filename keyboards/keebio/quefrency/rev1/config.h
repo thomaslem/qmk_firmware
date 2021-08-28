@@ -40,8 +40,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 #define DIODE_DIRECTION COL2ROW
 
-/* Set 0 if debouncing isn't needed */
-#define DEBOUNCE 5
+/* Set 0 if debouncing isn't needed. Default is 5 */
+#define DEBOUNCE 8
 
 /* serial.c configuration for split keyboard */
 #define SOFT_SERIAL_PIN D0
